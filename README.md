@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">A passionate software engineer from earth 😂</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=egbadon-victor&label=Profile%20views&color=0e75b6&style=flat" alt="egbadon-victor" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=egbadon-victor" alt="egbadon-victor" /></a> </p>
 
 - 🔭 I’m currently working on [Data Structures and Algorithms](https://github.com/egbadon-victor/Data_Structures_and_Algorithms)
@@ -14,6 +12,16 @@
 - 💬 Ask me about **react, javascript, python**
 
 - 📫 How to reach me **egbadon.victor.ehichoya@gmail.com**
+
+- ⚡ Fun fact **I am a skilled keyboardist**
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">I do have some private repositories that below the clients. Here are the links to the live projects</p>I do have some private repositories that below the clients. Here are the links to the live projects</p>
+
+- <a href="https://www.temidayooniosun.com" target="blank">Temidayo Oniosun's Portfolio site</a>
+- <a href="https://www.nelsonelijah.com" target="blank">Nelson Elijah's portfolio site</a>
+- <a href="https://jide-adekola-website.vercel.app/" target="blank">Jide Adekola's portfolio site</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
