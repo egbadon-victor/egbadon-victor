@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">I do have some private repositories that below the clients. Here are the links to the live projects</p>I do have some private repositories that below the clients. Here are the links to the live projects</p>
+<p align="left">I do have some private repositories that belong to clients. Here are the links to the live projects</p>
 
 - <a href="https://www.temidayooniosun.com" target="blank">Temidayo Oniosun's Portfolio site</a>
 - <a href="https://www.nelsonelijah.com" target="blank">Nelson Elijah's portfolio site</a>
