@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=egbadon-victor" alt="egbadon-victor" /></a> </p>
 
-- 🔭 I’m currently working on [Data Structures and Algorithms](https://github.com/egbadon-victor/Data_Structures_and_Algorithms)
+- 🔭 I’m currently working on [Yourvote](https://github.com/egbadon-victor/yourvote)
 
-- 🌱 I’m currently learning **Python, Backend and Data Structures**
+- 🌱 I’m currently learning **Django and microservices**
 
 - 👨‍💻 All of my projects are available here on Github [https://github.com/egbadon-victor](https://github.com/egbadon-victor)
 
