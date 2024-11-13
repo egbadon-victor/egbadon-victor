@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">A driven software engineer from earth 😂</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=egbadon-victor" alt="egbadon-victor" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=egbadon-victor" alt="egbadon-victor" /></a> </p> -->
 
 - 🔭 I’m currently working on [Yourvote](https://github.com/egbadon-victor/yourvote)
 
