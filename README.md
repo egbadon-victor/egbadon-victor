@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I am a skilled keyboardist**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Something extra:</h3>
 
 <p align="left">I do have some private repositories that belong to clients. Here are the links to the live projects</p>
 
