@@ -3,9 +3,13 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=egbadon-victor" alt="egbadon-victor" /></a> </p> -->
 
-- 🔭 I’m currently working on [Yourvote](https://github.com/egbadon-victor/yourvote)
+- 🔭 I’m currently working on AI applications.
 
-- 🌱 I’m currently learning **Django and microservices**
+- 🌱 Next.js, react.js, redux...
+
+- 🧠 Software engineering is wayyy beyond code...
+  
+- ⬆️ Scalable architecture, security and maintainability
 
 - 👨‍💻 All of my projects are available here on Github [https://github.com/egbadon-victor](https://github.com/egbadon-victor)
 
